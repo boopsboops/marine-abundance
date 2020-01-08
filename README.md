@@ -23,7 +23,7 @@ Reuben A. Hastings, Louise A. Rutterford, Jennifer J. Freer, Rupert A. Collins, 
     
 * **`Data/`** - Data used for the analyses.
     - `Final_data.csv` - All studies and species data for full study
-    - `GLOBAL_annual_mean_cell_wlocation_long_valid.csv` - Global lat/lon cell annual mean temperature - HadISST
+    - `GLOBAL_annual_mean_cell_wlocation_long_valid.csv.gz` - Global lat/lon cell annual mean temperature - HadISST
         - Title: Monthly version of HadISST sea surface temperature component
         - Description: HadISST 1.1 monthly average sea surface temperature
         - Institution: Met Office Hadley Centre
