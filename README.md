@@ -35,5 +35,5 @@ Reuben A. Hastings, Louise A. Rutterford, Jennifer J. Freer, Rupert A. Collins, 
         - Comment: Data restrictions: for academic research use only. Data are Crown copyright see [http://www.opsi.gov.uk/advice/crown-copyright/copyright-guidance/index.htm](http://www.opsi.gov.uk/advice/crown-copyright/copyright-guidance/index.htm)
     - `species_occurrence_records.csv.gz` - Raw occurrence records for the 342 study species as downloaded from GBIF via modestR on 02/02/2018
         -  Two species (_Pomatomus saltatrix_ and _Caretta caretta_) were divided in to Northern (N) and Southern (S) hemisphere groups
-        -  These records were further subject to screening and checking protocols as described in the manuscript.
+        -  These records were further subject to screening and checking protocols as described in the manuscript
         -  Contributing datasets are: [10.15468/dl.bogm0t](https://doi.org/10.15468/dl.bogm0t) (species A-H); [10.15468/dl.fsf7br](https://doi.org/10.15468/dl.fsf7br) (species I-R); and [10.15468/dl.mqu3hu](https://doi.org/10.15468/dl.mqu3hu) (species S-Z).
