@@ -1,6 +1,6 @@
 # marine-abundance
  
-Final data and code for the marine species abundances and climate change paper "Climate change drives poleward increases and equatorward declines in abundance of marine species".
+Final data and code for the marine species abundances and climate change paper "Climate change drives poleward increases and equatorward declines in marine species".
 
 Reuben A. Hastings, Louise A. Rutterford, Jennifer J. Freer, Rupert A. Collins, Stephen D. Simpson and Martin J. Genner.
 
